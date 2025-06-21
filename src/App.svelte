@@ -5,7 +5,7 @@
     import dayGridPlugin from '@fullcalendar/daygrid';
     import timeGridPlugin from '@fullcalendar/timegrid';
 
-    // --- TEMPLATES FOR EACH PAGE ---
+    // --- TEMPLATES FOR EACH PAGE  ---
     let pageTemplates = {
         login: `
             <div class="w-full max-w-md mx-auto">
